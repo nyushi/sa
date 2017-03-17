@@ -1,0 +1,16 @@
+PODS:
+  - KeyHolder (2.0.0):
+    - Magnet (~> 2.0)
+  - Magnet (2.0.0)
+
+DEPENDENCIES:
+  - KeyHolder
+  - Magnet
+
+SPEC CHECKSUMS:
+  KeyHolder: 2389c8c9f911d56c413b1b288efa072e7a992c81
+  Magnet: b30d2807dd0d8a349ce4e6574ecefa38012d02ca
+
+PODFILE CHECKSUM: 4d269dfc24222b89f98f25862e031f10446c32fc
+
+COCOAPODS: 1.2.0
